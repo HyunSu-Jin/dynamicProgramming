@@ -2,6 +2,6 @@
 
 ##assembly line
 *example
-[!sample](/assemblyLine/sample.png)
+![sample](/assemblyLine/sample.png)
 *result
-[!result](/assemblyLine/result.png)
+![result](/assemblyLine/result.png)
