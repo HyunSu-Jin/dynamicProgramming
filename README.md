@@ -1,7 +1,7 @@
 # dynamicProgramming
 
 ##assembly line
-*example
+###example
 ![sample](/assemblyLine/sample.png)
-*result
+###result
 ![result](/assemblyLine/result.png)
