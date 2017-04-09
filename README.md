@@ -1,12 +1,15 @@
 # dynamicProgramming
 
-##assembly line
-###example
+## assembly line
+### example
 ![sample](/assemblyLine/sample.png)
-###result
+
+### result
 ![result](/assemblyLine/result.png)
-##rod cutting
-###example
+
+## rod cutting
+### example
 ![sample](/rodcutting/sample.png)
-###result
+
+### result
 ![result](/rodcutting/result.png)
